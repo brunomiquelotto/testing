@@ -1,0 +1,10 @@
+ O volume na unidade C ‚ -Win_7x64-
+ O N£mero de S‚rie do Volume ‚ 8244-0D09
+
+ Pasta de C:\Users\RAPHAEL\Testing
+
+19/09/2016  11:44    <DIR>          .
+19/09/2016  11:44    <DIR>          ..
+19/09/2016  11:44                 0 teste.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   131.180.748.800 bytes dispon¡veis
